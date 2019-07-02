@@ -1,5 +1,5 @@
 /*
- * °°³yªºª÷¹ô!!.cpp
+ * å½é€ çš„é‡‘å¹£!!.cpp
  * Author:Yun Pei Chao 
  */
 #include<iostream>
@@ -14,6 +14,6 @@ int main() {
 		cin >> coin;
 		cout << ceil(log(coin) / log(3))<<endl;
 	}
-	system("pause");
+	
 	return 0;
 }
