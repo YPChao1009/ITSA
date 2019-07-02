@@ -1,5 +1,5 @@
 /*
- * ½u¬q¤Á³Î.cpp
+ * ç·šæ®µåˆ‡å‰².cpp
  * Author:Yun Pei Chao 
  */
 #define _CRT_SECURE_NO_DEPRECATE
