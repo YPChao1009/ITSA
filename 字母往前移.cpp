@@ -1,12 +1,12 @@
 /*
- * ¦r¥À©¹«e²¾.cpp
+ * å­—æ¯å¾€å‰ç§».cpp
  * Author:Yun Pei Chao 
  */
 #include<iostream>
 #include<string>
 using namespace std;
 
-int main() {                               //ª`·N©¹«e²¾³¡¤À
+int main() {                               //Âª`Â·NÂ©Â¹Â«eÂ²Â¾Â³Â¡Â¤Ã€
 	string  str;
 	int n;
 	getline(cin, str);
