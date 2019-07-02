@@ -22,6 +22,6 @@ int main() {
 	cin >> m;
 	cout << f(n, m);
 
-        system("pause");
+   
 	return 0;
 }
