@@ -1,5 +1,5 @@
 /*
- * �q�Ʀr.cpp
+ * 猜數字.cpp
  * Author:Yun Pei Chao 
  */
 #include<iostream>
