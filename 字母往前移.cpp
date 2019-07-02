@@ -6,7 +6,7 @@
 #include<string>
 using namespace std;
 
-int main() {                               //ª`·N©¹«e²¾³¡¤À
+int main() {                               
 	string  str;
 	int n;
 	getline(cin, str);
