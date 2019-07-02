@@ -1,5 +1,5 @@
 /*
- *Find the smallest values.cpp
+ * Find the smallest values.cpp
  * Author:Yun Pei Chao 
  */
 #include<iostream>
@@ -33,6 +33,6 @@ int main() {
 	}
 
 
-	system("pause");
+	
 	return 0;
 }
