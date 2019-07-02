@@ -1,5 +1,5 @@
 /*
- * ¨­¤ÀÃÒÅç¾¹.cpp
+ * èº«åˆ†è­‰é©—å™¨.cpp
  * Author:Yun Pei Chao 
  */
 import java.io.*; 
@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class main1 {
 
 	public static void main(String[] args) throws Exception  {
-		// TODO ¦Û°Ê²£¥Íªº¤èªk Stub
+		
 		Scanner sc = new Scanner(System.in);
 
 		while (sc.hasNext()) {
