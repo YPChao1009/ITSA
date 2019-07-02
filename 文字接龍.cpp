@@ -1,5 +1,5 @@
 /*
- * ¤å¦r±µÀs.cpp
+ * æ–‡å­—æ¥é¾.cpp
  * Author:Yun Pei Chao 
  */
 #include<iostream>
