@@ -44,6 +44,6 @@ int main() {
 		}
 	}
 	cout << str1 << endl;
-	system("pause");
+	
 	return 0;
 }
