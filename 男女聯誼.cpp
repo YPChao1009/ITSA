@@ -65,21 +65,21 @@ int main()
 				}
 			}
 
-			int fuck[100];
-			int gan = 0;
+			int Men_notInterested[100];
+			int girl = 0;
 			for (int i = 0; i < list.length(); i++)
 			{
 				if (list[i] == ' ')
 				{
-					fuck[gan] = i + 1;
-					gan++;
+					Men_notInterested[girl] = i + 1;
+					girl++;
 				}
 			}
 
-			for (int i = 0; i < gan; i++)
+			for (int i = 0; i < girl; i++)
 			{
-				cout << fuck[i];
-				if (i != gan - 1)
+				cout << Men_notInterested[i];
+				if (i != girl - 1)
 					cout << " ";
 			}
 
